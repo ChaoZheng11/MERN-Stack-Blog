@@ -1,0 +1,40 @@
+.title{
+    padding: 1px 1px;
+    background-color: #D0344E;
+  }
+  
+  h1{
+    font-size: 14px;
+    font-weight: 650;
+    
+  }
+  
+  h1::first-letter{
+    font-size: 18px;
+  }
+  
+  .cardhead{
+    margin-bottom: 30px;
+    text-align: center;
+    width: 100%;
+  }
+  
+  .sign{
+    float: right;
+  }
+  
+  
+  
+  .type{
+    line-height: 42px;
+    display: block;
+    color: #868686;
+    
+    
+  }
+  
+  .type:hover{
+    color: #D0344E;
+  }
+  
+  

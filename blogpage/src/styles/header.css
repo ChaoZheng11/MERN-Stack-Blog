@@ -1,0 +1,89 @@
+.iconrow a{
+  text-decoration: none;
+  color: #4a4a4a;
+}
+
+.affix{
+    width: 100%;
+    text-align: center;
+    margin-top: 20px;
+    vertical-align: middle;
+  }
+  
+  .menubox ul{
+    
+    list-style: none;
+    padding:0px;
+    background-color:rgb(249,249,249); 
+  
+  }
+  
+  .menubox ul li{
+    display: inline;
+    text-align: center;
+    
+  }
+  
+  .menubox ul li a{
+    padding: 0 20px;
+    color: #4a4a4a;
+    font-size: 13px;
+    letter-spacing: 0.3px;
+    font-weight: 600;
+    line-height: 60px;
+  }
+  
+  ul>li>a:hover{
+    color:#D0344E;
+  }
+  
+  
+  #list:hover{
+    color:#D0344E;
+  }
+  
+  .iconrow{
+    line-height: 45px;
+    border-bottom: 1px solid rgb(239,239,239);
+    margin-bottom: 20px;
+  }
+  
+  .iconrow div{
+    text-align: center;
+  }
+  
+  .icon{
+    float: right;
+    margin-top: 12px;
+    
+  }
+  
+  .logomenu{
+  
+  background-color: #f9f9f9;
+  height: 59px;
+  }
+  
+  .bn{
+    margin-top: 7px;
+  }
+  
+  
+  
+  svg{
+    fill:currentColor;
+  }
+  
+  svg:hover{
+    color:#D0344E;
+  }
+  
+  .scoll{
+    margin-top: 10px;
+    margin-bottom: 50px;
+  }
+  
+  
+  .pic{
+    width: 100%;
+  }
